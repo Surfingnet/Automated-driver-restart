@@ -8,7 +8,7 @@ How to get the driver ID:
   
 -execute this command: Get-PnpDevice | Format-Table -Property FriendlyName,InstanceId  
 (you can copy the command here then right clic in the terminal to paste it)  
-(if the ID's do not fit in the window, if they are shortened, simply resize the terminal to make it wider then run the command again)  
+(if the IDs do not fit in the window, if they are shortened, simply resize the terminal to make it wider then run the command again)  
   
 -copy the ID that's on the right side of the driver you want to restart  
 (to copy from the terminal simply left clic and drag on what you want to copy as if you wanted to select the text) 
