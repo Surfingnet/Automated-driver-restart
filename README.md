@@ -2,7 +2,7 @@
 A powershell script to restart a driver easily, and a batch file to run the script in one click.
   
 # Instructions
-How to get the driver ID:  
+How to get a driver ID:  
   
 -open a powershell terminal as admin  
   
